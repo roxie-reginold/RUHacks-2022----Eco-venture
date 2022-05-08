@@ -1,0 +1,3 @@
+token = 'OTcyMjg2NjAwNDY3ODUzMzky.GALZzq.zqJoClAi8D7KXDQ1mm-j_c3MthiQv8UQ-puyCs'
+testingServerID = 971186631086325820
+#testingServerID = 971145771879628810
